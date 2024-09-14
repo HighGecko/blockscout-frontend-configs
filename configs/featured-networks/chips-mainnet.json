@@ -1,14 +1,21 @@
 [	{
-		"title": "IOTA L1 Mainnet",
+		"title": "IOTA L1 Tangle",
 		"url": "https://explorer.iota.org",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/iota-evm-ico.svg"
 	},
 	{
-		"title": "IOTA EVM Mainnet",
+		"title": "IOTA EVM",
 		"url": "https://explorer.evm.iota.org",
 		"group": "Mainnets",
 		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/iota-evm-ico.svg"
+	},
+	{
+		"title": "CHIPS Network",
+		"url": "https://explorer.chips.ooo",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/HighGecko/blockscout-frontend-configs/main/configs/network-icons/chips-ico.svg",
+		"isActive": true
 	},
   	{
 		"title": "Shimmer EVM",
